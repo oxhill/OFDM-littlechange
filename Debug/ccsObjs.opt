@@ -1,0 +1,1 @@
+"./biterr.obj" "./config.obj" "./dm642main.obj" "./ofdm.obj" "./seeddm642_cpld.obj" "./sync.obj" "../C6748.cmd" -llibc.a 
